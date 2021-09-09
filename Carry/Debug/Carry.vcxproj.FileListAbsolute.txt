@@ -1,0 +1,4 @@
+C:\Users\cleme\source\repos\Carry\Carry\Debug\Carry.vcxproj.AssemblyReference.cache
+C:\Users\cleme\source\repos\Carry\Carry\Debug\Carry.BackgroundPage.resources
+C:\Users\cleme\source\repos\Carry\Carry\Debug\Carry.vcxproj.GenerateResource.cache
+C:\Users\cleme\source\repos\Carry\Carry\Debug\Carry.ConfigPage.resources
